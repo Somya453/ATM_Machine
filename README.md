@@ -1,2 +1,6 @@
+Just Tried something new for me...
+Coded in Java language...
+
+
 # ATM_Machine
-ATM Machine by JAVA
+ATM Machine in java language
